@@ -2,6 +2,9 @@
 
 This project aims to predict the final scores of IPL (Indian Premier League) matches based on various features using different regression models. 
 
+![image](https://github.com/Hitesh2498/IPL-Score-Prediction/assets/96277290/8f56e48b-4e9e-4e81-bace-984a9e8a7520)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Preprocessing](#data-preprocessing)
